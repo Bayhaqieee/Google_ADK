@@ -24,6 +24,7 @@ litellm
 # Azure OpenAI
 openai
 azure-identity
+langchain_openai
 
 # Environment & Configuration Management
 python-dotenv
