@@ -4,6 +4,7 @@ google-generativeai
 google-ai-generativelanguage
 google-api-core
 google-auth
+adk
 
 # Local AI Development
 ollama
